@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.DR-Sport"
-       name="[COLOR BLUE][B]DR-Sport[/COLOR][/B]"
+       name="[COLOR blue][B]DR-Sport[/COLOR][/B]"
        version="1.0"
        provider-name="DR-Sport Team">
   <requires>
