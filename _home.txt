@@ -23,7 +23,7 @@
 <channel>
 <name>KIDS CHANNELS</name>
 <thumbnail>https://yt3.ggpht.com/-co8gqPEZ4wg/AAAAAAAAAAI/AAAAAAAAAAA/ns5vMzc8vzM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.DS-Sport/master/__sources5.txt</externallink>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources5.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
@@ -32,7 +32,7 @@
 <channel>
 <name>NEWS CHANNELS</name>
 <thumbnail>http://cached.imagescaler.hbpl.co.uk/resize/scaleToFit/427/285/?sURL=http://offlinehbpl.hbpl.co.uk/news/OWM/807EC45A-C429-D27B-E5539266BD03930C.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.DS-Sport/master/__sources4.txt</externallink>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources4.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
@@ -41,16 +41,16 @@
 <channel>
 <name>MUSIC CHANNELS</name>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/56/d1/77/56d1775dff8ed0c7eba557e5edcbfcc5.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.DS-Sport/master/__sources3.txt</externallink>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources3.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
 
 <channels>
 <channel>
-<name>SERVER</name>
+<name>LIVE TV</name>
 <thumbnail>https://i.ytimg.com/vi/ZYqGcA3OqKQ/maxresdefault.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.DR-Sport/master/__sources1.txt</externallink>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
