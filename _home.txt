@@ -14,7 +14,7 @@
 <channel>
 <name>SKY CHANNELS</name>
 <thumbnail>http://d.ibtimes.co.uk/en/full/1467855/sky-tv.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.DR-Sport/master/__sources2.txt</externallink>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources2.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
