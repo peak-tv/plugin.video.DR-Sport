@@ -6,19 +6,19 @@
 
 <item>
 <title>BT SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/543.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/15351.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18974.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
 <thumbnail></thumbnail>
 </item>
 
