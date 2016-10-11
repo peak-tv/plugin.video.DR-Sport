@@ -1,6 +1,6 @@
 <item>
-<title>BT SPORT 1 HD 1080P<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
+<title>BT SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7031.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -23,8 +23,8 @@
 </item>
 
 <item>
-<title>BT SPORT 2 HD 1080P<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19928.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS21080p<link>
+<title>BT SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7030.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS21080p<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -47,8 +47,8 @@
 </item>
 
 <item>
-<title>BT SPORTS 3 HD 1080P<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19929.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS31080p<link>
+<title>BT SPORTS 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6965.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS31080p<link>
 <thumbnail></thumbnail>
 </item>
 
