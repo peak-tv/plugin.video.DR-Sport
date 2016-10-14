@@ -11,8 +11,8 @@
 </item>
 
 <item>
-<title>BT SPORT 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<title>BT SPORT 1 HD 1080p<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
 <thumbnail></thumbnail>
 </item>
 
