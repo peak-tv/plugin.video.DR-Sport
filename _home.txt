@@ -21,6 +21,15 @@
 
 <channels>
 <channel>
+<name>DOCUMENTARY CHANNELS</name>
+<thumbnail>http://rainforestmovie.ca/w1/wp-content/uploads/logo-documentary.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources6.txt</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
 <name>KIDS CHANNELS</name>
 <thumbnail>https://yt3.ggpht.com/-co8gqPEZ4wg/AAAAAAAAAAI/AAAAAAAAAAA/ns5vMzc8vzM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources5.txt</externallink>
